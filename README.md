@@ -6,12 +6,12 @@ Fundamental Prompting Techniques • Advanced Prompting Strategies • Mixture-o
 <img src="PR1.png" alt="" width="600">
 
 
-<img src="PR2.png" alt="" width="600">
+<img src="PR2.png" alt="" width="450">
 
 1. Introduction
 This guide provides a clear, developer-friendly overview of essential prompting methods, advanced strategies for controlling LLM behavior, and a high-level explanation of Mixture-of-Experts (MoE) architecture. Designed like a presentation, it uses concise sections, bullets, and visually oriented explanations.
 
-<img src="PR3.png" alt="" width="600">
+<img src="PR3.png" alt="" width="400">
 
 2. Fundamental Prompting Techniques
    
