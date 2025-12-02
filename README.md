@@ -13,7 +13,7 @@ This guide provides a clear, developer-friendly overview of essential prompting 
 
 <img src="PR3.png" alt="" width="600">
 
-3. Fundamental Prompting Techniques
+2. Fundamental Prompting Techniques
    
  <img src="PR4.png" alt="" width="600">
  
