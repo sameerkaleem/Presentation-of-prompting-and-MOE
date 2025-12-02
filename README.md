@@ -5,15 +5,18 @@
 
 Presentation-Style Technical Guide
 Fundamental Prompting Techniques • Advanced Prompting Strategies • Mixture-of-Experts (MoE)
+
 <img src="PR2.png" alt="" width="600">
 
 1. Introduction
- <img src="PR3.png" alt="" width="600">
-
 This guide provides a clear, developer-friendly overview of essential prompting methods, advanced strategies for controlling LLM behavior, and a high-level explanation of Mixture-of-Experts (MoE) architecture. Designed like a presentation, it uses concise sections, bullets, and visually oriented explanations.
 
-2. Fundamental Prompting Techniques
+<img src="PR3.png" alt="" width="600">
+
+3. Fundamental Prompting Techniques
+   
  <img src="PR4.png" alt="" width="600">
+ 
 2.1 Instruction Prompting
 
 Give explicit commands (e.g., "Summarize this text in 2 sentences.")
@@ -42,7 +45,9 @@ Visual Suggestion:
 📄 Slide graphic showing “Instruction → Context → Examples → Output”.
 
 3. Advanced Prompting Strategies
+   
 <img src="PR5.png" alt="" width="600">
+
 3.1 Chain-of-Thought (CoT)
 
 Ask the model to “think step-by-step.”
@@ -71,7 +76,9 @@ Visual Suggestion:
 🧠 Flowchart showing branching solutions and selection of the most consistent result.
 
 4. Mixture-of-Experts (MoE) Architecture
+   
 <img src="PR6.png" alt="" width="600">
+
 4.1 What is MoE?
 
 A neural network design where multiple “experts” (specialized sub-models) exist, but only a few activate per query.
@@ -94,6 +101,7 @@ Visual Suggestion:
 📊 Diagram: input → router → selected experts → combined output.
 
 5. Best Practices
+   
  <img src="PR7.png" alt="" width="600">
 
 Be explicit: unclear prompts lead to inconsistent output.
@@ -105,6 +113,7 @@ Use examples for formatting-heavy tasks.
 Evaluate multiple outputs in critical workflows.
 
 6. Common Pitfalls
+   
    <img src="PR8.png" alt="" width="600">
 
 Underspecified instructions → ambiguous answers.
