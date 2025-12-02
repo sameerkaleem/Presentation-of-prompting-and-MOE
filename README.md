@@ -1,10 +1,10 @@
 # Presentation-of-prompting-and-MOE
 
+Presentation-Style Technical Guide
+Fundamental Prompting Techniques • Advanced Prompting Strategies • Mixture-of-Experts (MoE)
 
 <img src="PR1.png" alt="" width="600">
 
-Presentation-Style Technical Guide
-Fundamental Prompting Techniques • Advanced Prompting Strategies • Mixture-of-Experts (MoE)
 
 <img src="PR2.png" alt="" width="600">
 
