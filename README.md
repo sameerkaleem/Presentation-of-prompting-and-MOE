@@ -93,4 +93,4 @@ Underspecified instructions → ambiguous answers.
 Too much context → distracts the model.
 Inconsistent formatting → unpredictable structure.
 
-
+[Google](https://docs.google.com/document/d/1bwOtHWXsjjb7xyczTqTDEu8y0tKVsXVeNMPNGCwhOZA/edit?tab=t.0)
